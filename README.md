@@ -3,7 +3,7 @@
 Team Members:  
 Aniruddha Rajshekar, 
 Aditya Pinapala, 
-Lanlan Pang, 
+Lanlan Pang 
 
 Our project aims to design a gesture-based control system which lets a person use the motions of his arm to control the robotic arm. We built a master system 
 which uses an IMU signal to register the human arm movements and interpret that to create control signals, which is then transmitted via a wireless module, 
